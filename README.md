@@ -1,9 +1,9 @@
 # Guardian
 
 Guardian is a C++ program that denies user access to pornographic and malicious websites.
-This is useful for parents who do not want their children to access pornographic or malicious websites.
+This program is useful for parents who do not want their children to access pornographic or malicious websites.
 Guardian only needs to be activated 1 time and may be deleted after activation.
-A python-based Guardian program is available for anyone who would like to see the source code and verify it's integrity.
+A python-based Guardian program is available for anyone who would like to see the source code and verify its integrity.
 
 C++ Instructions (recommended) (easier for non-tech savvy users):
 1. Download Guardian.exe and the hosts.txt
